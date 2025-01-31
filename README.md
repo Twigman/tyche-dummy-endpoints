@@ -1,2 +1,2 @@
 # tyche-dummy-endpoints
-WebService and REST Endpoints to test tyche
+WebService and REST endpoints to test tyche
